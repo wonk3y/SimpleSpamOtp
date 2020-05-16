@@ -5,11 +5,8 @@ class Otp {
 	/*
 	* Name : Simple Spam Otp
 	* File : otp.php
-	* Author : DulLah
-	* Github : https://github.com/dz-id
-	* Telegram : https://t.me/unikers
-	* Date : 26-01-2020
-	* Version : 1.0
+	* Author : WonK3y 
+	* Github : https://github.com/wonk3y
 	*/
 	protected static $agent;
 
